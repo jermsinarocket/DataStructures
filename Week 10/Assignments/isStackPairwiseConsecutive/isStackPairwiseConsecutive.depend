@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509811181 source:c:\users\ntu user\desktop\computer science\cz1007 data structures\lab\week 10\assignments\isstackpairwiseconsecutive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

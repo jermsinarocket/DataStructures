@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505900610 source:c:\users\ntu user\desktop\computer science\cz1007 data structures\lab\week 5\assignments\ciphertext\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507286154 source:c:\users\ntu user\desktop\computer science\cz1007 data structures\lab\lab test\section b - character strings (16 sep 2017)\findtarget\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504487971 source:c:\users\ntu user\desktop\computer science\cz1007 data structures\lab\week 4\assignments\findminmaxid\main.c
+	<stdio.h>
+	<stdlib.h>
+
