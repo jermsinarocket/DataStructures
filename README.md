@@ -6,7 +6,7 @@ Labs + Weekly Assignments
 * C
 
 ## IDE(s) used
-* Netbeans
+* Code Blocks
 
 ## Contributors
 * [Tan Wei Xuan](https://github.com/jermsinarocket)
