@@ -1,6 +1,7 @@
 # CZ1007 Data Structures
 
 Labs + Weekly Assignments (100% for all)
+<br/>
 Final Grade: A+
 
 ## Language(s) used
